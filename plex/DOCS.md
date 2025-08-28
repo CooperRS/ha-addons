@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: Plex Media Server
+# Home Assistant Add-on: Plex Media Server (CooperRS)
 
 The plex add-on brings your favorite media together in one place, making it
 beautiful and easy to enjoy. The Plex Media Server provided by this addon,

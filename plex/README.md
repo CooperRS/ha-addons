@@ -1,12 +1,8 @@
-# Home Assistant Community Add-on: Plex Media Server
+# Home Assistant Add-on: Plex Media Server (CooperRS)
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
 [![Discord][discord-shield]][discord] [![Community Forum][forum-shield]][forum]
-
-[![Sponsor Frenck via GitHub Sponsors][github-sponsors-shield]][github-sponsors]
-
-[![Support Frenck on Patreon][patreon-shield]][patreon]
 
 Your recorded media, live TV, online news, and podcasts, beautifully organized
 and ready to stream.
@@ -28,5 +24,5 @@ and streams them to all of your devices.
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v3.6.4-blue.svg
-[release]: https://github.com/hassio-addons/addon-plex/tree/v3.6.4
+[release-shield]: https://img.shields.io/badge/version-v1.42.1-blue.svg
+[release]: https://github.com/CooperRS/addon-plex/tree/v1.42.1
