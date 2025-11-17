@@ -1,3 +1,3 @@
 ## What’s changed
 
-* Update to Plex 1.42.1.10060
+* Update to 1.42.2.10156

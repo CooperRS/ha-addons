@@ -111,10 +111,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-plex]: https://github.com/CooperRS/addon-plex/tree/v1.42.1
-[addon-doc-plex]: https://github.com/CooperRS/addon-plex/blob/v1.42.1/README.md
+[addon-plex]: https://github.com/CooperRS/addon-plex/tree/v1.42.2
+[addon-doc-plex]: https://github.com/CooperRS/addon-plex/blob/v1.42.2/README.md
 [plex-issue]: https://github.com/CooperRS/addon-plex/issues
-[plex-version-shield]: https://img.shields.io/badge/version-v1.42.1-blue.svg
+[plex-version-shield]: https://img.shields.io/badge/version-v1.42.2-blue.svg
 [plex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [plex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
