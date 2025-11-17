@@ -35,7 +35,7 @@ https://github.com/CooperRS/ha-addons
 
 ## Add-ons provided by this repository
 
-### &#10003; [Plex Media Server][addon-plex]
+### &#10003; [Plex Media Server (CooperRS)][addon-plex]
 
 ![Latest Version][plex-version-shield]
 ![Supports armhf Architecture][plex-armhf-shield]
@@ -46,7 +46,7 @@ https://github.com/CooperRS/ha-addons
 
 Recorded media, live TV, online news, and podcasts ready to stream.
 
-[:books: Plex Media Server add-on documentation][addon-doc-plex]
+[:books: Plex Media Server (CooperRS) add-on documentation][addon-doc-plex]
 
 ## Releases
 
@@ -73,7 +73,7 @@ You could also open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
-- [Open an issue for the add-on: Plex Media Server][plex-issue]
+- [Open an issue for the add-on: Plex Media Server (CooperRS)][plex-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
